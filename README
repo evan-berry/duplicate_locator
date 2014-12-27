@@ -1,0 +1,3 @@
+Requirements:
+  libmagic-dev       #debian package
+  ruby-filemagic     # gem
